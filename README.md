@@ -3,4 +3,4 @@ Printable fix for broken mount holes on M365 Pro battery pack. Tested with 20% i
 
 To open project file download latest FreeCAD. From there you can export model as stl or step.
 
-![Pic](/Pic.png)
+![Pic](/pic.png)
